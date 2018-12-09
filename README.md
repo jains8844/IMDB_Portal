@@ -18,7 +18,7 @@
 
 - json
 
-- Tkinter
+- Tkinter/tkinter
 
 **Installation Guide**
     
